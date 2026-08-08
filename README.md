@@ -41,6 +41,7 @@
 | Course | School | Status | Proof |
 | :-- | :--: | :--: | :--: |
 | [Introduction to Python](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science) | DataCamp | ✅ 2022 | [cert](certs/2022-datacamp-intro-python.png) |
+| [Introduction to Python](https://cursa.app/en/page/introduction-to-python) | Cursa | ✅ 2022 | [cert](certs/2022-cursa-intro-python.png) |
 | [Intermediate Python](https://app.datacamp.com/learn/courses/intermediate-python) | DataCamp | ✅ 2024 | [cert](certs/2024-datacamp-intermediate-python.png) |
 | [Intro to CS & Programming using Python (6.0001)](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | MIT | 🟡 in progress | — |
 | [Python Data Structures (PY4E)](https://www.py4e.com/lessons) | U. of Michigan | ⬜ planned | — |
@@ -115,6 +116,7 @@ The OSSU curriculum culminates in a final project. I've applied the knowledge ac
 
 All completed course certificates are stored in the `/certs` folder:
 - `2022-datacamp-intro-python.png`
+- `2022-cursa-intro-python.png`
 - `2024-datacamp-intermediate-python.png`
 - `2025-datacamp-pandas.png`
 - *(more added as completed)*
